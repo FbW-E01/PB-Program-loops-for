@@ -15,20 +15,15 @@ Write a program that will iterate from 0 to 20. For each iteration, it will chec
 Write a program that will iterate from 0 to 10. For each iteration of the for loop, it will multiply the number by 9 and log the result (e.g. "2 * 9 = 18").
 **Bonus:** Use a nested for loop to show the tables for every multiplier from 1 to 10 (100 results total).
 
-5. **Grades.**
-Write a program to calculate the average mark of the following grades: 90, 60, 77, 81, 65.
-
-6. **Fizz Buzz**
+5. **Fizz Buzz**
 Write a program which iterates the integers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
 
-7. **Sum of Multiples**
+6. **Sum of Multiples**
 Write a program to add the multiples of 3 and 5 under 1000.
-
-8. Create an array filled with your friends' and family's names. Loop over the array and greet each friend e.g. Hello Maria! Hello Mike! etc. 
 
 **Bonus**: Print the indexes of each item in the array. Expected output example: Mike is at index 1 of my friends array. 
 
-9. Write programs that produce the following outputs: 
+7. Write programs that produce the following outputs: 
 >100 200 300 400 500 600 700 800 900 1000
 >
 >1 2 4 8 16 32 64 128
@@ -40,7 +35,7 @@ Write a program to add the multiples of 3 and 5 under 1000.
 >9 8 7 6 5 4 3 2 1 0
 >
 
-10. **isPalindrome.**
+8. **isPalindrome.**
 Write a program to check whether a word is a palindrome or not. 
 Note: a palindrome is a word, phrase, or sequence that reads the same backwards as forwards, e.g. madam or tarrattarrat
 
