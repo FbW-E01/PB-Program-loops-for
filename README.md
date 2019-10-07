@@ -21,7 +21,7 @@ Write a program which iterates the integers from 1 to 100. But for multiples of 
 6. **Sum of Multiples**
 Write a program to add the multiples of 3 and 5 under 1000.
 
-**Bonus**: Print the indexes of each item in the array. Expected output example: Mike is at index 1 of my friends array. 
+**Bonus** 
 
 7. Write programs that produce the following outputs: 
 >100 200 300 400 500 600 700 800 900 1000
