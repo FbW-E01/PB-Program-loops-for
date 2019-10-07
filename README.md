@@ -34,6 +34,9 @@ Write a program to add the multiples of 3 and 5 under 1000.
 >
 >9 8 7 6 5 4 3 2 1 0
 >
+>1 1 1 2 2 2 3 3 3 4 4 4
+>
+>0 1 2 3 4 0 1 2 3 4 0 1 2 3 4
 
 8. **isPalindrome.**
 Write a program to check whether a word is a palindrome or not. 
