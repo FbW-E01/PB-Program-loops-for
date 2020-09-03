@@ -26,8 +26,6 @@ Write a program to add the multiples of 3 and 5 under 1000.
 7. Write programs that produce the following outputs: 
 >100 200 300 400 500 600 700 800 900 1000
 >
->1 2 4 8 16 32 64 128
->
 >0 2 4 6 8 10
 >
 >3 6 9 12 15
